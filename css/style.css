@@ -33,3 +33,14 @@ pre {
 	padding: 20px;
 	margin: 0 auto 30px auto; 
 }
+
+a {
+	text-decoration: none;
+	color: #eee;
+	border-bottom: 1px dotted #eee;
+}
+
+ul li {
+	list-style: none;
+	padding: 5px;
+}
